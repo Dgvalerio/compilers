@@ -24,8 +24,7 @@
       "error",
       {
         "singleQuote": true,
-        "trailingComma": "es5",
-        "printWidth": 128
+        "trailingComma": "es5"
       }
     ],
     "@typescript-eslint/no-namespace": "off",
